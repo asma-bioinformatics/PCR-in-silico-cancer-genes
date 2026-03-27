@@ -1,0 +1,4 @@
+BLAST validation:
+Matches: BRCA1 gene
+Organism: Homo sapiens
+Conclusion: primers are specific
