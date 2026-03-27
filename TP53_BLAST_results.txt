@@ -1,1 +1,4 @@
-
+BLAST validation:
+Matches: TP53 gene
+Organism: Homo sapiens
+Conclusion: primers are specific
